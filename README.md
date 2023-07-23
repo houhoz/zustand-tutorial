@@ -29,7 +29,9 @@
 └─user.ts 
 ```
 
-参考：https://juejin.cn/post/7203262276572823609
+参考：
+- https://juejin.cn/post/7203262276572823609
+- https://github.com/pmndrs/zustand/blob/main/docs/integrations/persisting-store-data.md#options
 
 
 
